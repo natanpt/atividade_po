@@ -1,6 +1,6 @@
 # Problema de Roteirização com Coleta e Entrega (Pickup & Delivery — PDVRP)
 
-**Grupo:** Natan Pedrosa, José Luciano e João Pedro
+**Grupo:** Aguisson Alves, Natan Pedrosa, José Luciano e João Pedro
 
 **Resumo:**  
 Este projeto modela e resolve um problema de roteirização de veículos com pares de coleta e entrega (pickup & delivery). O objetivo é atribuir e ordenar visitas a nós (coletas e entregas) por uma frota de veículos com capacidades limitadas, minimizando a distância total percorrida e respeitando precedência (coleta antes da entrega) e restrições de capacidade.
@@ -244,3 +244,4 @@ Métricas a reportar:
 
 - OR-Tools — *https://developers.google.com/optimization/routing/pickup_delivery?hl=pt-br*
 - Código referência - *https://github.com/google/or-tools/blob/stable/ortools/constraint_solver/samples/vrp_pickup_delivery.py*
+- Link do Binder - **
