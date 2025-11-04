@@ -193,7 +193,7 @@ Verificações / testes:
 ```bash
 python -m venv .venv
 source .venv/bin/activate   # Linux/Mac
-.venv\Scriptsctivate      # Windows
+.venv\Scripts\ctivate      # Windows
 ```
 
 2. Instalar dependências:
