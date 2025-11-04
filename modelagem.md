@@ -244,4 +244,4 @@ Métricas a reportar:
 
 - OR-Tools — *https://developers.google.com/optimization/routing/pickup_delivery?hl=pt-br*
 - Código referência - *https://github.com/google/or-tools/blob/stable/ortools/constraint_solver/samples/vrp_pickup_delivery.py*
-- Link do Binder - **
+- Link do Binder - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/natanpt/atividade_po/HEAD?urlpath=%2Fdoc%2Ftree%2Fsolucao.ipynb)
